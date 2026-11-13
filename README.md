@@ -191,7 +191,7 @@ nba-all-star-prediction/
 │
 ├── README.md
 │
-├── final-analysis/
+├── final/
 │   ├── nba_all_star_analysis.ipynb
 │   └── nba_2015_2025_cleaned.csv
 │
@@ -304,3 +304,7 @@ A model disagreement can sometimes be more interesting than a correct prediction
 **Michael Shepherd**  
 Data Science  
 Pennsylvania State University
+
+## License
+
+Code is released under the [MIT License](LICENSE). Data from outside sources keeps its original terms.
